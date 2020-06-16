@@ -1,0 +1,13 @@
+@media only screen and (max-width: 600px) {
+    .boite-text{
+        display: none;   
+    }
+    .boite-overley{
+        height: 450px;
+        padding: ;
+    }
+    .formulaire{
+        align-self: center;
+        width: 320px;
+    }
+  }
